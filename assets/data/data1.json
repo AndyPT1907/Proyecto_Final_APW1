@@ -1,0 +1,52 @@
+{
+  "carrito": [
+    {
+      "id": "b778",
+      "nombre": "Iphone 14",
+      "precio": 1000,
+      "cantidad": 2,
+      "iva": 120,
+      "total": 2120
+    },
+    {
+      "id": "bbbf",
+      "nombre": "Iphone 14",
+      "precio": 1000,
+      "cantidad": 1,
+      "iva": 120,
+      "total": 1120
+    },
+    {
+      "id": "47b2",
+      "nombre": "Iphone 14",
+      "precio": 1000,
+      "cantidad": 2,
+      "iva": 120,
+      "total": 2120
+    },
+    {
+      "id": "05cb",
+      "nombre": "Iphone 14",
+      "precio": 1000,
+      "cantidad": 3,
+      "iva": 120,
+      "total": 3120
+    },
+    {
+      "id": "c6c0",
+      "nombre": "Iphone 13",
+      "precio": 550.5,
+      "cantidad": 1,
+      "iva": 66.06,
+      "total": 616.56
+    },
+    {
+      "id": "9e8f",
+      "nombre": "Iphone 14",
+      "precio": 1000,
+      "cantidad": 2,
+      "iva": 120,
+      "total": 2120
+    }
+  ]
+}
